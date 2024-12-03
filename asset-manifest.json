@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Tasks-Management-Dashboard/static/js/main.6bab6a06.js",
-    "index.html": "/Tasks-Management-Dashboard/index.html",
-    "main.6bab6a06.js.map": "/Tasks-Management-Dashboard/static/js/main.6bab6a06.js.map"
+    "main.js": "/task-management-dashboard/static/js/main.569c327f.js",
+    "index.html": "/task-management-dashboard/index.html",
+    "main.569c327f.js.map": "/task-management-dashboard/static/js/main.569c327f.js.map"
   },
   "entrypoints": [
-    "static/js/main.6bab6a06.js"
+    "static/js/main.569c327f.js"
   ]
 }
